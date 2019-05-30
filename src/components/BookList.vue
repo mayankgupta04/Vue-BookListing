@@ -11,7 +11,7 @@ export default {
     name: 'BookList',
     data() {
         return {
-            title: 'All Books here!!'
+            title: 'All Books'
         }
     }
 }
